@@ -15,7 +15,7 @@
 
 ---
 
-## 🧰 My Tech Arsenal (So Many Badges 😍)
+## 🧰 My Tech Arsenal 
 
 ### 🎨 Frontend Magic
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
