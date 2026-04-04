@@ -17,7 +17,7 @@
 
 ---
 
-## 🧰 My Tech Arsenal (Badge Party! 🎉)
+## 🧰 My Tech Arsenal
 
 ### 🎨 Frontend Magic
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -119,12 +119,6 @@
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🎵 What I'm Vibing To
-
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/yourusername)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourhandle)
 
 ---
 
