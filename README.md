@@ -1,4 +1,4 @@
- The Short Story
+# 🧠 My code works. (Eventually. Mostly.)
 
 ### 💻 Full Stack Developer | 📊 Data Science Student | ☕ Coffee Powered
 
@@ -56,52 +56,29 @@
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
-## 🏆 Cool Badges I Collected
+## 🏆 What I'm Known For
 
-![Profile Views](https://komarev.com/ghpvc/?username=nashrahjaan53-code&style=for-the-badge&color=ff69b4)
-![GitHub Followers](https://img.shields.io/github/followers/nashrahjaan53-code?style=for-the-badge&logo=github&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/nashrahjaan53-code?style=for-the-badge&logo=github&color=yellow)
-![Open Source Love](https://img.shields.io/badge/❤️_Open_Source-FC490B?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-![Code Quality](https://img.shields.io/badge/Code_Quality-A+-brightgreen?style=for-the-badge)
-![First PR](https://img.shields.io/badge/First_PR-Welcome-brightgreen?style=for-the-badge)
-![Maintained](https://img.shields.io/badge/Maintained-YES-brightgreen?style=for-the-badge)
-![Made with Love](https://img.shields.io/badge/Made_with_❤️-India-red?style=for-the-badge)
-![Beginner Friendly](https://img.shields.io/badge/Beginner_Friendly-YES-00BFFF?style=for-the-badge)
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)
-
----
-
-## 📊 My Coding Journey
-
-![Coding](https://img.shields.io/badge/Code_Quality-A++-brightgreen?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Commits-1000+-blue?style=for-the-badge)
-![Lines of Code](https://img.shields.io/badge/Lines_of_Code-50k+-orange?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects-20+-purple?style=for-the-badge)
-![Happy Clients](https://img.shields.io/badge/Happy_Clients-15+-yellow?style=for-the-badge)
-![Coffee Consumed](https://img.shields.io/badge/Coffee_Consumed-∞-brown?style=for-the-badge)
+✅ Clean React code that doesn't break
+✅ Python scripts that actually work
+✅ Power BI dashboards that tell stories
+✅ SQL queries that run fast
+✅ Breaking things then fixing them better
 
 ---
 
@@ -112,6 +89,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sarvernashrah_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nashrahjaan53@gmail.com)
 
+---
+
+## 📈 Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=nashrahjaan53-code&style=for-the-badge&color=ff69b4)
 
 ---
 
@@ -119,21 +101,8 @@
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
 ---
 
-## 💬 My Developer Mantra
+> *"Full Stack Developer who thinks like a Data Scientist. Code that works. Data that tells a story."*
 
-> *"Full stack developer who thinks like a data scientist. I make data beautiful and code functional."*
-
-### 📧 **Email me:** nashrahjaan53@gmail.com  
-### 📸 **Follow me:** @sarvernashrah_ on Instagram
-
----
-
-## 🎉 Thanks for visiting!
-
-![Visitor Badge](https://img.shields.io/badge/You_are_awesome-FF69B4?style=for-the-badge)
-![Star Badge](https://img.shields.io/badge/Star_this_repo-⭐-yellow?style=for-the-badge)
-
-**Have a great day! Keep coding! 🚀✨**
+**Thanks for visiting! Have a great day! 🚀✨**
