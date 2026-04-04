@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nashrah Khan! 
+ The Short Story
 
 ### 💻 Full Stack Developer | 📊 Data Science Student | ☕ Coffee Powered
 
