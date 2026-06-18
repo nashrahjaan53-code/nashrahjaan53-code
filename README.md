@@ -73,28 +73,3 @@ I'm the kind of person who gets genuinely curious about why a model underperform
 ---
 
 ## 🔭 What I'm Working On
-
-- 📌 &nbsp; Building end-to-end ML projects — from raw data to deployed model
-- 📌 &nbsp; Getting deeper into **NLP** and fine-tuning language models
-- 📌 &nbsp; Sharpening my **SQL** and data engineering fundamentals
-- 📌 &nbsp; Documenting everything — because good work should be reproducible
-
----
-
-## 📬 Let's Connect
-
-I'm always down to connect with people in the data space — whether it's feedback on a project, a collab idea.
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nashrah-khan-82056b332)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nashrahjaan53@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/nashrahsarver_/)
-
-
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nashrahjaan53-code&label=Profile+Views&color=6C63FF&style=flat" alt="profile views" />
-</p>
-
-> *"Without data, you're just another person with an opinion." — W. Edwards Deming*
