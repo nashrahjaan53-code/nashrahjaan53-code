@@ -6,18 +6,16 @@
 
 ---
 
-## About Me
+About Me
+Data science student with a full-stack development background — which means I don't just build models, I can actually deploy them. My focus right now is on machine learning, NLP, and data analysis — building projects that go beyond notebooks and solve real problems.
 
-I'm a data science student with a background in full-stack development but these days, my head is fully in the data space. I care about building things that extract meaning from noise: clean models, honest visualizations, and analysis that actually tells a story.
+I'm the kind of person who gets genuinely curious about why a model underperforms, not just whether it does. I care about clean pipelines, reproducible work, and visualizations that communicate — not just impress.
 
-Currently focused on **machine learning**, **NLP**, and **data analysis & visualization** — actively learning, actively building.
-
-- 🎯 &nbsp; Primary focus: **Data Science & Machine Learning**
-- 📊 &nbsp; Love turning messy datasets into clear, actionable insights
-- 🤖 &nbsp; Exploring **NLP & LLMs** — fascinated by what language models can do
-- 🛠️ &nbsp; Full-stack background — means I can actually ship what I build
-- 📍 &nbsp; Always open to **collaborations, projects, and learning opportunities**
-
+🎯   Seeking: Data Science / ML / Data Analyst internships & entry-level roles
+🧠   Core strengths: Machine Learning, NLP, Data Analysis & Visualization
+🛠️   Edge: Full-stack background means I can take a model from training to production
+📈   Currently building: End-to-end ML projects with real datasets
+🤝   Open to: Collaborations, freelance work, and connecting with people in the data space
 ---
 
 ## 🧪 Data Science Stack
