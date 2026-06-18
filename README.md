@@ -15,7 +15,7 @@
 ![Fun Fact](https://img.shields.io/badge/😎_Bug_slayer-9C27B0?style=for-the-badge&logo=bugatti&logoColor=white)
 ![Fun Fact](https://img.shields.io/badge/🎯_Pixel_perfect-FF6F00?style=for-the-badge&logo=adobe&logoColor=white)
 
----
+
 
 ## 🧰 My Tech Arsenal
 
