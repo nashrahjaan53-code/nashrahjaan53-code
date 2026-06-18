@@ -1,4 +1,4 @@
-# Hey, I'm Nashrah Khan 👋
+# Hey, I'm Nashrah Khan👋
 
 ### Data Science Student · ML Enthusiast · Turning Raw Data into Real Insights
 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a data science student with a background in full-stack development — but these days, my head is fully in the data space. I care about building things that extract meaning from noise: clean models, honest visualizations, and analysis that actually tells a story.
+I'm a data science student with a background in full-stack development but these days, my head is fully in the data space. I care about building things that extract meaning from noise: clean models, honest visualizations, and analysis that actually tells a story.
 
 Currently focused on **machine learning**, **NLP**, and **data analysis & visualization** — actively learning, actively building.
 
@@ -44,10 +44,16 @@ Currently focused on **machine learning**, **NLP**, and **data analysis & visual
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 ### Also know my way around (Full-Stack background)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -58,11 +64,9 @@ Currently focused on **machine learning**, **NLP**, and **data analysis & visual
 | Metric | Count |
 |---|---|
 | 🔁 Total Commits | 91 |
-| 🔀 Pull Requests | 2 |
+| 🔀 Pull Requests | 1 |
 | 🐛 Issues Raised | 2 |
 | 🤝 Repos Contributed To | 1 |
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
 <!--  Stars will come when the projects do. The commits are already here. -->
 
@@ -81,14 +85,16 @@ Currently focused on **machine learning**, **NLP**, and **data analysis & visual
 
 I'm always down to connect with people in the data space — whether it's feedback on a project, a collab idea, or just talking shop.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/nashrah-khan-82056b332)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nashrahjaan53@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nashrah-khan-82056b332)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nashrahjaan53@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/nashrahsarver_/)
+
+
 
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nashrahrahjaan53-code&label=Profile+Views&color=6C63FF&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nashrahjaan53-code&label=Profile+Views&color=6C63FF&style=flat" alt="profile views" />
 </p>
 
 > *"Without data, you're just another person with an opinion." — W. Edwards Deming*
