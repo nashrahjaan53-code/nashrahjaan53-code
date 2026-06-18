@@ -54,9 +54,9 @@ Currently focused on **machine learning**, **NLP**, and **data analysis & visual
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nashrahjaan53-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashrahjaan53-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 </p>
 
 ---
