@@ -1,4 +1,4 @@
-# Hey, I'm Nashrah Khan 👋
+# Hey, I'm Nashrah Khan👋
 
 ### Data Science Student · ML Enthusiast · Turning Raw Data into Real Insights
 
@@ -8,9 +8,9 @@
 
 ## About Me
 
-Data science student with a full-stack development background which means I don't just build models, I can actually deploy them. My focus right now is on **machine learning**, **NLP**, and **data analysis** building projects that go beyond notebooks and solve real problems.
+Data science student with a full-stack development background  which means I don't just build models, I can actually deploy them. My focus right now is on **machine learning**, **NLP**, and **data analysis** building projects that go beyond notebooks and solve real problems.
 
-I'm the kind of person who gets genuinely curious about why a model underperforms, not just whether it does. I care about clean pipelines, reproducible work, and visualizations that communicate — not just impress.
+I'm the kind of person who gets genuinely curious about why a model underperforms, not just whether it does. I care about clean pipelines, reproducible work, and visualizations that communicate not just impress.
 
 - 🎯 &nbsp; **Seeking:** Data Science / ML / Data Analyst internships & entry-level roles
 - 🧠 &nbsp; **Core strengths:** Machine Learning, NLP, Data Analysis & Visualization
@@ -64,7 +64,7 @@ I'm the kind of person who gets genuinely curious about why a model underperform
 | Metric | Count |
 |---|---|
 | 🔁 Total Commits | 91 |
-| 🔀 Pull Requests | 1 |
+| 🔀 Pull Requests | 4 |
 | 🐛 Issues Raised | 2 |
 | 🤝 Repos Contributed To | 1 |
 
@@ -73,3 +73,26 @@ I'm the kind of person who gets genuinely curious about why a model underperform
 ---
 
 ## 🔭 What I'm Working On
+
+- 📌 &nbsp; Building end-to-end ML projects — from raw data to deployed model
+- 📌 &nbsp; Getting deeper into **NLP** and fine-tuning language models
+- 📌 &nbsp; Sharpening my **SQL** and data engineering fundamentals
+- 📌 &nbsp; Documenting everything — because good work should be reproducible
+
+---
+
+## 📬 Let's Connect
+
+I'm always down to connect with people in the data space — whether it's feedback on a project, a collab idea.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nashrah-khan-82056b332)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/nashrahsarver_/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nashrahjaan53@gmail.com)
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nashrahjaan53-code&label=Profile+Views&color=6C63FF&style=flat" alt="profile views" />
+</p>
+
+> *"Without data, you're just another person with an opinion." — W. Edwards Deming*
