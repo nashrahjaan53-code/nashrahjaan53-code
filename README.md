@@ -1,4 +1,4 @@
-# Hey, I'm Nashrah Khan👋
+# Hey, I'm Nashrah Khan 👋
 
 ### Data Science Student · ML Enthusiast · Turning Raw Data into Real Insights
 
@@ -6,16 +6,18 @@
 
 ---
 
-About Me
-Data science student with a full-stack development background — which means I don't just build models, I can actually deploy them. My focus right now is on machine learning, NLP, and data analysis — building projects that go beyond notebooks and solve real problems.
+## About Me
+
+Data science student with a full-stack development background — which means I don't just build models, I can actually deploy them. My focus right now is on **machine learning**, **NLP**, and **data analysis** — building projects that go beyond notebooks and solve real problems.
 
 I'm the kind of person who gets genuinely curious about why a model underperforms, not just whether it does. I care about clean pipelines, reproducible work, and visualizations that communicate — not just impress.
 
-🎯   Seeking: Data Science / ML / Data Analyst internships & entry-level roles
-🧠   Core strengths: Machine Learning, NLP, Data Analysis & Visualization
-🛠️   Edge: Full-stack background means I can take a model from training to production
-📈   Currently building: End-to-end ML projects with real datasets
-🤝   Open to: Collaborations, freelance work, and connecting with people in the data space
+- 🎯 &nbsp; **Seeking:** Data Science / ML / Data Analyst internships & entry-level roles
+- 🧠 &nbsp; **Core strengths:** Machine Learning, NLP, Data Analysis & Visualization
+- 🛠️ &nbsp; **Edge:** Full-stack background means I can take a model from training to production
+- 📈 &nbsp; **Currently building:** End-to-end ML projects with real datasets
+- 🤝 &nbsp; **Open to:** Collaborations, freelance work, and connecting with people in the data space
+
 ---
 
 ## 🧪 Data Science Stack
@@ -81,12 +83,10 @@ I'm the kind of person who gets genuinely curious about why a model underperform
 
 ## 📬 Let's Connect
 
-I'm always down to connect with people in the data space — whether it's feedback on a project, a collab idea, or just talking shop.
-
+I'm always down to connect with people in the data space — whether it's feedback on a project, a collab idea.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nashrah-khan-82056b332)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nashrahjaan53@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/nashrahsarver_/)
-
 
 
 ---
