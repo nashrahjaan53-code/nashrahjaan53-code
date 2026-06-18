@@ -8,7 +8,7 @@
 
 ## About Me
 
-Data science student with a full-stack development background — which means I don't just build models, I can actually deploy them. My focus right now is on **machine learning**, **NLP**, and **data analysis** — building projects that go beyond notebooks and solve real problems.
+Data science student with a full-stack development background which means I don't just build models, I can actually deploy them. My focus right now is on **machine learning**, **NLP**, and **data analysis** building projects that go beyond notebooks and solve real problems.
 
 I'm the kind of person who gets genuinely curious about why a model underperforms, not just whether it does. I care about clean pipelines, reproducible work, and visualizations that communicate — not just impress.
 
@@ -84,6 +84,8 @@ I'm the kind of person who gets genuinely curious about why a model underperform
 ## 📬 Let's Connect
 
 I'm always down to connect with people in the data space — whether it's feedback on a project, a collab idea.
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nashrah-khan-82056b332)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nashrahjaan53@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/nashrahsarver_/)
