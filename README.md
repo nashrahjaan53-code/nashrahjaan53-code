@@ -51,13 +51,20 @@ Currently focused on **machine learning**, **NLP**, and **data analysis & visual
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Activity Snapshot
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nashrahjaan53-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashrahjaan53-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
-</p>
+> Early stage, but consistently shipping.
+
+| Metric | Count |
+|---|---|
+| 🔁 Total Commits | 91 |
+| 🔀 Pull Requests | 2 |
+| 🐛 Issues Raised | 2 |
+| 🤝 Repos Contributed To | 1 |
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+<!--  Stars will come when the projects do. The commits are already here. -->
 
 ---
 
@@ -74,13 +81,14 @@ Currently focused on **machine learning**, **NLP**, and **data analysis & visual
 
 I'm always down to connect with people in the data space — whether it's feedback on a project, a collab idea, or just talking shop.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nashrah-khan-82056b332)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/nashrah-khan-82056b332)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nashrahjaan53@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/nashrahsarver_/)
 
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=6C63FF&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nashrahrahjaan53-code&label=Profile+Views&color=6C63FF&style=flat" alt="profile views" />
 </p>
 
 > *"Without data, you're just another person with an opinion." — W. Edwards Deming*
