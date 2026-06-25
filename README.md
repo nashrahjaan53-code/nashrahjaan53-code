@@ -63,7 +63,7 @@ I'm the kind of person who gets genuinely curious about why a model underperform
 
 | Metric | Count |
 |---|---|
-| 🔁 Total Commits | 91 |
+| 🔁 Total Commits | 100 |
 | 🔀 Pull Requests | 6 |
 | 🐛 Issues Raised | 2 |
 | 🤝 Repos Contributed To | 1 |
