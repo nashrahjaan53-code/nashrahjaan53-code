@@ -1,6 +1,6 @@
 # Hey, I'm Nashrah Khan 👋
 
-### SQL Engineer · Power BI Developer · Turning Raw Data into Business Insights
+### Data Analyst · SQL · Power BI · Python
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=F2C811&center=false&vCenter=true&width=600&lines=Writing+queries+that+scale...;SQL+%7C+Power+BI+%7C+Data+Modeling;Turning+raw+tables+into+dashboards;Business+Intelligence%2C+built+right)
 
@@ -8,11 +8,11 @@
 
 ## About Me
 
-SQL Engineer and Power BI Developer with a data science and full-stack background  which means I don't just write queries and build dashboards, I understand the data pipeline underneath them end to end. My focus is on **SQL development**, **data modeling**, and **business intelligence dashboards** that turn raw, messy tables into decisions people can actually act on.
+Data Analyst with a data science and full-stack background which means I don't just write queries and build dashboards, I understand the data pipeline underneath them end to end. My focus is on **SQL development**, **data modeling**, and **business intelligence dashboards** that turn raw, messy tables into decisions people can actually act on.
 
-I'm the kind of person who cares as much about query performance and clean data models as I do about how a dashboard looks. Good BI isn't just a pretty chart  it's the right metric, reaching the right person, at the right time.
+I'm the kind of person who cares as much about query performance and clean data models as I do about how a dashboard looks. Good BI isn't just a pretty chart it's the right metric, reaching the right person, at the right time.
 
-- 🎯 **Seeking:** SQL Engineer / Power BI Developer / Business Intelligence Analyst roles
+- 🎯 **Seeking:** Data Analyst roles (full-time or internship) — SQL, Power BI, Python
 - 🧠 **Core strengths:** SQL (queries, optimization, stored procedures), Power BI (DAX, data modeling, dashboarding), Data Analysis
 - 🛠️ **Edge:** Data science + full-stack background means I understand data from raw ingestion to the boardroom dashboard
 - 📈 **Currently building:** End-to-end BI projects — from raw data to interactive Power BI dashboards
