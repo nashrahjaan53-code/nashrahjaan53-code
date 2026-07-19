@@ -10,7 +10,7 @@
 
 SQL Engineer and Power BI Developer with a data science and full-stack background which means I don't just write queries and build dashboards, I understand the data pipeline underneath them end to end. My focus is on **SQL development**, **data modeling**, and **business intelligence dashboards** that turn raw, messy tables into decisions people can actually act on.
 
-I'm the kind of person who cares as much about query performance and clean data models as I do about how a dashboard looks. Good BI isn't just a pretty chart it's the right metric, reaching the right person, at the right time.
+I'm the kind of person who cares as much about query performance and clean data models as I do about how a dashboard looks. Good BI isn't just a pretty chart  it's the right metric, reaching the right person, at the right time.
 
 - 🎯 **Seeking:** SQL Engineer / Power BI Developer / Business Intelligence Analyst roles
 - 🧠 **Core strengths:** SQL (queries, optimization, stored procedures), Power BI (DAX, data modeling, dashboarding), Data Analysis
@@ -135,7 +135,7 @@ I'm always down to connect with people in the data space — whether it's feedba
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nashrah-khan-82056b332)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nashrahsarver_/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nashrahjaan53@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-6C63FF?style=for-the-badge&logo=googledocs&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/Resume%2FPortfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nashrahjaan53-code.github.io/my-portfolio/)
 
 ---
 
