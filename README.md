@@ -115,7 +115,7 @@ Interactive portfolio showcasing end-to-end data projects.
   <img src="https://github-profile-trophy.vercel.app/?username=nashrahjaan53-code&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
-> These cards pull live data — no manual updating needed, and they instantly make the profile look active.
+
 
 ---
 
