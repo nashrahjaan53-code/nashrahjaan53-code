@@ -10,7 +10,7 @@
 
 SQL Engineer and Power BI Developer with a data science and full-stack background which means I don't just write queries and build dashboards, I understand the data pipeline underneath them end to end. My focus is on **SQL development**, **data modeling**, and **business intelligence dashboards** that turn raw, messy tables into decisions people can actually act on.
 
-I'm the kind of person who cares as much about query performance and clean data models as I do about how a dashboard looks. Good BI isn't just a pretty chart — it's the right metric, reaching the right person, at the right time.
+I'm the kind of person who cares as much about query performance and clean data models as I do about how a dashboard looks. Good BI isn't just a pretty chart it's the right metric, reaching the right person, at the right time.
 
 - 🎯 **Seeking:** SQL Engineer / Power BI Developer / Business Intelligence Analyst roles
 - 🧠 **Core strengths:** SQL (queries, optimization, stored procedures), Power BI (DAX, data modeling, dashboarding), Data Analysis
