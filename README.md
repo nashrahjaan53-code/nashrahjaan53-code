@@ -136,7 +136,7 @@ I'm always down to connect with people in the data space — whether it's feedba
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nashrahsarver_/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nashrahjaan53@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nashrahjaan53-code.github.io/my-portfolio/)
-[![Resume](https://img.shields.io/badge/Resume-2E2E2E?style=for-the-badge&logo=googledocs&logoColor=white)]([Nashrah_Khan_Resume.docx]([Nashrah_Khan_Resume.pdf](https://github.com/user-attachments/files/30179207/Nashrah_Khan_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-2E2E2E?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/user-attachments/files/30179207/Nashrah_Khan_Resume.pdf)
 
 )
 
