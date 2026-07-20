@@ -138,7 +138,7 @@ I'm always down to connect with people in the data space — whether it's feedba
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nashrahjaan53-code.github.io/my-portfolio/)
 [![Resume](https://img.shields.io/badge/Resume-2E2E2E?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/user-attachments/files/30179207/Nashrah_Khan_Resume.pdf)
 
-)
+
 
 ---
 
