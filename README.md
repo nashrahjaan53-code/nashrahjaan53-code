@@ -27,6 +27,27 @@ From **database design** to **executive dashboards**, I enjoy working across the
 
 ---
 
+---
+
+# 🌐 Portfolio
+
+<div align="center">
+
+### Explore my complete portfolio
+
+<a href="https://nashrahjaan53-code.github.io/my-portfolio/">
+<img src="https://img.shields.io/badge/Visit%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<br><br>
+
+**🔗 https://nashrahjaan53-code.github.io/my-portfolio/**
+
+</div>
+
+---
+
+
 # ✨ Quick Snapshot
 
 | | |
@@ -198,6 +219,25 @@ Machine learning fraud detection system with explainable AI and ensemble learnin
 
 ---
 
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nashrahjaan53-code&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=nashrahjaan53-code&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashrahjaan53-code&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+
+
+
 # 🛠️ Tech Stack
 
 ### 💾 Databases
@@ -283,49 +323,30 @@ Machine learning fraud detection system with explainable AI and ensemble learnin
 
 </div>
 
----
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nashrahjaan53-code&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
-
-</div>
-
----
-
-# 🌐 Portfolio
-
-<div align="center">
-
-### Explore more of my work
-
-**🌍 Portfolio Website**
-
-https://nashrahjaan53-code.github.io/my-portfolio
-
-</div>
-
----
 
 # 🤝 Let's Connect
 
 <div align="center">
 
-
-
-&nbsp;
-
 <a href="www.linkedin.com/in/nashrah-khan-26056r332">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;
 
 <a href="mailto:nashrahjaan53@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+
+
+</div>
+
+---
+# 💭 Quote of the Day
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -333,6 +354,18 @@ https://nashrahjaan53-code.github.io/my-portfolio
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=nashrahjaan53-code&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=nashrahjaan53-code&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+Building scalable SQL databases • Interactive Power BI dashboards • Machine Learning solutions • Business Intelligence
+
+Always open to collaborating on data analytics, BI, and machine learning projects.
+
+</div>
+
