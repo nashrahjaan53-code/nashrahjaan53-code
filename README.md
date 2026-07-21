@@ -17,7 +17,7 @@
 
 ---
 
-# 🌼 About Me
+#  About Me
 
 I'm a **Data Analyst** passionate about solving business problems with **SQL, Power BI, Python, and Machine Learning**.
 
@@ -217,25 +217,6 @@ Machine learning fraud detection system with explainable AI and ensemble learnin
 | ⚡ **PowerGuard AI** | Anomaly Detection | Smart energy consumption anomaly detection |
 | 🦠 **COVID Analytics** | Data Science | Global COVID trend analysis & visualization |
 
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nashrahjaan53-code&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=nashrahjaan53-code&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashrahjaan53-code&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-
 
 
 # 🛠️ Tech Stack
@@ -301,19 +282,6 @@ Machine learning fraud detection system with explainable AI and ensemble learnin
 
 </p>
 
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nashrahjaan53-code&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashrahjaan53-code&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 Contribution Activity
 
