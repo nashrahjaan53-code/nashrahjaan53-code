@@ -95,128 +95,104 @@ From **database design** to **executive dashboards**, I enjoy working across the
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Projects
 
 <table>
-
 <tr>
 
 <td width="50%">
 
-## 🏥 Healthcare Analytics Database
+## 🗄️ SQL Projects
 
-Enterprise-style hospital database featuring relational modeling, analytical SQL, reusable views, and business reporting.
+### 🏥 Healthcare Analytics Database
+Enterprise-scale relational database with 10 interconnected tables, normalized schema, stored procedures, views, and analytical SQL reporting.
 
-**Tech**
+**Tech:** MySQL • SQL • Stored Procedures
 
-MySQL • SQL • Views • Stored Procedures
+🔗 https://github.com/nashrahjaan53-code/hospital-management-sql-db
 
-🔗 **Repository**
+---
 
-https://github.com/nashrahjaan53-code/hospital-management-sql-db
+### 🚖 Ride-Sharing Analytics Database
+Complete ride-sharing backend database featuring ER modeling, reusable SQL views, stored procedures, and operational analytics.
+
+**Tech:** MySQL • SQL • Data Modeling
+
+🔗 https://github.com/nashrahjaan53-code/ride-sharing-sql-analytics
 
 </td>
 
 <td width="50%">
 
-## 🚖 Ride-Sharing Analytics Database
+## 📊 Power BI Dashboards
 
-Backend database modeling drivers, riders, locations, rides, and operational reporting for a ride-sharing platform.
+### 💰 Financial Dashboard
+Executive dashboard analyzing sales, profitability, discounts, and business KPIs using interactive Power BI visualizations.
 
-**Tech**
+🔗 https://github.com/nashrahjaan53-code/financial-dashboard
 
-MySQL • SQL • Data Modeling
+---
 
-🔗 **Repository**
+### 🛒 Business Sales Dashboard
+Interactive business intelligence dashboard tracking revenue, profit, customer trends, and regional performance.
 
-https://github.com/nashrahjaan53-code/ride-sharing-sql-analytics
+🔗 https://github.com/nashrahjaan53-code/business_dashboard
 
-</td>
+---
 
-</tr>
+### 🛍️ E-Commerce Dashboard
+Customer behavior, product performance, payment methods, and sales analytics dashboard.
 
-<tr>
+🔗 https://github.com/nashrahjaan53-code/ecommerce-dashboard
 
-<td>
+---
 
-## 💰 Financial Dashboard
+### 🚨 Fraud Detection Dashboard
+Interactive fraud analytics dashboard identifying fraud hotspots, suspicious transactions, location trends, and temporal fraud patterns.
 
-Interactive Power BI dashboard analyzing sales, profit, discounts, and international business performance.
-
-</td>
-
-<td>
-
-## 🛒 E-Commerce Dashboard
-
-Business intelligence dashboard exploring revenue, customer behavior, payment methods, and sales performance.
+🔗 https://github.com/nashrahjaan53-code/fraud-detection-dashboard
 
 </td>
 
 </tr>
-
-<tr>
-
-<td>
-
-## 🤖 Ortho-Assist AI
-
-AI-powered orthopedic X-ray assistant built using Vision Transformers, FastAPI, and Streamlit.
-
-</td>
-
-<td>
-
-## 🧠 Fraud Detection AI
-
-Machine learning fraud detection system with explainable AI and ensemble learning.
-
-</td>
-
-</tr>
-
 </table>
 
 ---
 
-# 🗄️ SQL Projects
+## 🤖 AI & Machine Learning Projects
 
 | Project | Description |
 |---------|-------------|
-| 🏥 Healthcare Analytics Database | Hospital management database with 10 interconnected tables, business reporting, views, and analytical SQL. |
-| 🚖 Ride-Sharing Analytics | End-to-end ride-sharing database featuring stored procedures, reusable views, and operational analytics. |
-| 🛍️ MegaMart Retail Analytics | Customer segmentation, RFM analysis, CTEs, Window Functions, and executive reporting. |
+| 🩺 **OrthoAssist AI** | Vision Transformer + Gemini-powered orthopedic X-ray diagnosis and prescription validation assistant. |
+| 🤖 **Enterprise RAG AI Agent** | Production-ready Retrieval-Augmented Generation system using FastAPI, FAISS, Sentence Transformers, and Gemini 2.5 Flash. |
+| 💳 **Credit Card Fraud Detection (MLOps)** | End-to-end fraud detection pipeline featuring MLflow, DVC, FastAPI, Docker, Prometheus, Evidently AI, and CI/CD. |
+| 🧠 **Mini GPT** | Decoder-only Transformer built completely from scratch in PyTorch with attention layers, tokenizer, training pipeline, Flask API, and chat interface. |
+| 💻 **QLoRA Code Generation Assistant** | Fine-tuned Mistral-7B using QLoRA (4-bit quantization) to build a lightweight code generation assistant. |
+| 📈 **Stock Price Forecasting** | Comparative forecasting using Prophet, ARIMA, and LSTM with interactive Streamlit visualization. |
+| 🛡️ **Ethereum Smart Contract Vulnerability Detection** | Stacked ensemble learning pipeline combining static bytecode analysis and runtime execution metrics. |
+| 📄 **AI Resume Screening System** | Semi-supervised NLP resume classifier using Label Propagation and TF-IDF vectorization. |
+| 🎯 **AI Career Path Predictor** | Self-training semi-supervised learning model for predicting technology career paths. |
+| 📰 **Fake News Detection** | TF-IDF + Multinomial Naive Bayes pipeline with Streamlit deployment. |
+| 🩺 **DiseaseSense AI** | Breast cancer classification using XGBoost, LightGBM, and CatBoost with model comparison dashboard. |
+| ⚡ **Energy Consumption Anomaly Detection** | Smart meter anomaly detection for electricity theft and abnormal usage identification. |
+| 😊 **Real-Time Emotion Detector** | Webcam-based emotion recognition using OpenCV, DeepFace, and Streamlit. |
+| ▶️ **YouTube Watch Predictor** | Regression and classification models predicting watch time and user engagement. |
 
 ---
 
-# 📊 Power BI Dashboards
+## 🌐 Data Science & Analytics Projects
 
-| Dashboard | Focus |
-|-----------|-------|
-| 💰 Financial Dashboard | Sales, discounts, profitability, and international business performance |
-| 🛒 E-Commerce Dashboard | Revenue, products, customers, and payment analytics |
-| 💳 Loan Approval Dashboard | Loan approval trends and applicant insights |
-| 📈 Sales Dashboard | Revenue analysis and customer purchasing behavior |
-| 🚨 Fraud Dashboard | Fraud trends by transaction type, location, and time |
+| Project | Domain |
+|---------|--------|
+| 🎨 AI Brand Color Palette Generator | Computer Vision • K-Means |
+| 🌿 Product Taxonomy Finder | Hierarchical Clustering |
+| 📊 Customer Persona Explorer | PCA |
+| 🎬 Streaming Recommendation Engine | Apriori Association Rules |
+| 📍 Foot Traffic & Anomaly Tracker | DBSCAN |
+| 📈 Product Analytics & User Retention | Business Analytics |
+| 🏗️ Kashmiri Arts Platform | AI-powered business assistance platform for artisans, tourism, retail, and agriculture. |
 
 ---
-
-# 🤖 Machine Learning Projects
-
-| Project | Domain | Highlights |
-|---------|--------|------------|
-| 🛡️ **FraudShield AI** | Fraud Detection | Ensemble learning, anomaly detection, explainable AI |
-| 🩺 **DiseaseSense AI** | Healthcare AI | XGBoost, LightGBM, CatBoost comparison dashboard |
-| 📄 **ResumeIQ AI** | NLP | Resume parsing, skill extraction, candidate matching |
-| 🏡 **PropertyVision AI** | Regression | House price prediction & feature engineering |
-| 📉 **StockVision AI** | Time Series | LSTM-based stock price forecasting |
-| 👥 **Customer Churn Prediction** | Classification | XGBoost model for customer retention |
-| 🌼 **BloomVision AI** | Computer Vision | Flower image classification with boosting models |
-| 🔢 **DigitVision AI** | Computer Vision | Handwritten digit recognition using SVM |
-| 📰 **NewsSense AI** | NLP | News category classification with Naive Bayes |
-| ⚡ **PowerGuard AI** | Anomaly Detection | Smart energy consumption anomaly detection |
-| 🦠 **COVID Analytics** | Data Science | Global COVID trend analysis & visualization |
-
 
 
 # 🛠️ Tech Stack
