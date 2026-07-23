@@ -249,6 +249,9 @@ Full-stack business platform built with React, Express.js, and immersive 3D visu
 
 <td width="50%">
 
+## 🌐 Portfolio Website
+Interactive React portfolio showcasing SQL, Power BI, Machine Learning, AI Engineering, and Full Stack development projects.
+
 </td>
 
 </tr>
