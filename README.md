@@ -94,105 +94,245 @@ From **database design** to **executive dashboards**, I enjoy working across the
 ```
 
 ---
-
 # 🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%">
 
-## 🗄️ SQL Projects
+## 🏥 Healthcare Analytics Database
+Enterprise-grade hospital database featuring relational modeling, analytical SQL, reusable views, stored procedures, and business reporting.
 
-### 🏥 Healthcare Analytics Database
-Enterprise-scale relational database with 10 interconnected tables, normalized schema, stored procedures, views, and analytical SQL reporting.
-
-**Tech:** MySQL • SQL • Stored Procedures
+**Tech**
+- MySQL
+- SQL
+- Database Design
 
 🔗 https://github.com/nashrahjaan53-code/hospital-management-sql-db
-
----
-
-### 🚖 Ride-Sharing Analytics Database
-Complete ride-sharing backend database featuring ER modeling, reusable SQL views, stored procedures, and operational analytics.
-
-**Tech:** MySQL • SQL • Data Modeling
-
-🔗 https://github.com/nashrahjaan53-code/ride-sharing-sql-analytics
 
 </td>
 
 <td width="50%">
 
-## 📊 Power BI Dashboards
+## 💳 Apex Ledger SQL
+Enterprise banking database implementing customers, accounts, transactions, loans, triggers, stored procedures, reusable views, and financial reporting.
 
-### 💰 Financial Dashboard
-Executive dashboard analyzing sales, profitability, discounts, and business KPIs using interactive Power BI visualizations.
+**Tech**
+- MySQL
+- SQL
+- Banking Analytics
 
-🔗 https://github.com/nashrahjaan53-code/financial-dashboard
-
----
-
-### 🛒 Business Sales Dashboard
-Interactive business intelligence dashboard tracking revenue, profit, customer trends, and regional performance.
-
-🔗 https://github.com/nashrahjaan53-code/business_dashboard
-
----
-
-### 🛍️ E-Commerce Dashboard
-Customer behavior, product performance, payment methods, and sales analytics dashboard.
-
-🔗 https://github.com/nashrahjaan53-code/ecommerce-dashboard
-
----
-
-### 🚨 Fraud Detection Dashboard
-Interactive fraud analytics dashboard identifying fraud hotspots, suspicious transactions, location trends, and temporal fraud patterns.
-
-🔗 https://github.com/nashrahjaan53-code/fraud-detection-dashboard
+🔗 https://github.com/nashrahjaan53-code/apex-ledger-sql
 
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%">
+
+## 🚖 Ride-Sharing Analytics Database
+Backend relational database for ride-sharing analytics featuring optimized schema design, reusable SQL views, and stored procedures.
+
+</td>
+
+<td width="50%">
+
+## 🛒 MegaMart Retail Analytics
+Retail analytics platform covering inventory, products, customers, sales, and executive business reporting using advanced SQL.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📊 Financial Performance Intelligence Dashboard
+Executive Power BI dashboard for revenue, profit, discounts, sales trends, and KPI monitoring.
+
+</td>
+
+<td width="50%">
+
+## 🏦 Banking Risk Analytics Dashboard
+Loan approval analytics, lending trends, applicant segmentation, and financial risk visualization in Power BI.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🛡️ Fraud Detection Dashboard
+Interactive Power BI dashboard analyzing fraud trends across locations, transaction channels, values, and timelines.
+
+</td>
+
+<td width="50%">
+
+## 🛍️ Retail Sales Intelligence Dashboard
+Power BI dashboard providing executive retail analytics, customer insights, and business performance metrics.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🩺 OrthoAssist AI
+Vision Transformer + FastAPI + Streamlit + Gemini-powered orthopedic X-ray diagnosis and prescription safety assistant.
+
+</td>
+
+<td width="50%">
+
+## 🤖 Enterprise RAG AI Agent
+Production-ready Retrieval-Augmented Generation system using FastAPI, FAISS, Sentence Transformers, and Gemini 2.5 Flash.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🧠 NanoGPT Forge
+GPT-style decoder-only Transformer implemented entirely from scratch in PyTorch with training, inference API, and web chat interface.
+
+</td>
+
+<td width="50%">
+
+## 💳 Credit Card Fraud Detection (MLOps)
+End-to-end MLOps pipeline with PyTorch, MLflow, Docker, FastAPI, CI/CD, Prometheus, Grafana, and Evidently AI.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🌸 KoshurHeritage
+Modern cultural discovery platform showcasing Kashmir's heritage, traditions, tourism, arts, cuisine, and historical landmarks.
+
+</td>
+
+<td width="50%">
+
+## 🌿 Kashmiri Arts Platform
+AI-powered business platform supporting artisans, tourism, retailers, entrepreneurs, and local businesses through intelligent digital solutions.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 💼 Siffrum Web Platform
+Full-stack business platform built with React, Express.js, and immersive 3D visualizations featuring admin dashboards and project management.
+
+</td>
+
+<td width="50%">
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
-## 🤖 AI & Machine Learning Projects
+# 🗄️ SQL Projects
 
 | Project | Description |
 |---------|-------------|
-| 🩺 **OrthoAssist AI** | Vision Transformer + Gemini-powered orthopedic X-ray diagnosis and prescription validation assistant. |
-| 🤖 **Enterprise RAG AI Agent** | Production-ready Retrieval-Augmented Generation system using FastAPI, FAISS, Sentence Transformers, and Gemini 2.5 Flash. |
-| 💳 **Credit Card Fraud Detection (MLOps)** | End-to-end fraud detection pipeline featuring MLflow, DVC, FastAPI, Docker, Prometheus, Evidently AI, and CI/CD. |
-| 🧠 **Mini GPT** | Decoder-only Transformer built completely from scratch in PyTorch with attention layers, tokenizer, training pipeline, Flask API, and chat interface. |
-| 💻 **QLoRA Code Generation Assistant** | Fine-tuned Mistral-7B using QLoRA (4-bit quantization) to build a lightweight code generation assistant. |
-| 📈 **Stock Price Forecasting** | Comparative forecasting using Prophet, ARIMA, and LSTM with interactive Streamlit visualization. |
-| 🛡️ **Ethereum Smart Contract Vulnerability Detection** | Stacked ensemble learning pipeline combining static bytecode analysis and runtime execution metrics. |
-| 📄 **AI Resume Screening System** | Semi-supervised NLP resume classifier using Label Propagation and TF-IDF vectorization. |
-| 🎯 **AI Career Path Predictor** | Self-training semi-supervised learning model for predicting technology career paths. |
-| 📰 **Fake News Detection** | TF-IDF + Multinomial Naive Bayes pipeline with Streamlit deployment. |
-| 🩺 **DiseaseSense AI** | Breast cancer classification using XGBoost, LightGBM, and CatBoost with model comparison dashboard. |
-| ⚡ **Energy Consumption Anomaly Detection** | Smart meter anomaly detection for electricity theft and abnormal usage identification. |
-| 😊 **Real-Time Emotion Detector** | Webcam-based emotion recognition using OpenCV, DeepFace, and Streamlit. |
-| ▶️ **YouTube Watch Predictor** | Regression and classification models predicting watch time and user engagement. |
+| 🏥 Healthcare Analytics Database | Enterprise hospital database with relational modeling, analytical SQL, reusable views, and reporting. |
+| 💳 Apex Ledger SQL | Banking database featuring customers, accounts, transactions, loans, stored procedures, triggers, and financial reporting. |
+| 🚖 Ride-Sharing Analytics Database | Ride-sharing backend with optimized schema design, reusable views, and stored procedures. |
+| 🛒 MegaMart Retail Analytics | Retail warehouse analytics with customer segmentation, inventory analysis, and executive reporting. |
 
 ---
 
-## 🌐 Data Science & Analytics Projects
+# 📊 Power BI Dashboards
+
+| Dashboard | Focus |
+|------------|-------|
+| 💰 Financial Performance Intelligence | Revenue, profit, discounts, executive KPIs |
+| 🏦 Banking Risk Analytics | Lending decisions and loan approvals |
+| 🛡️ Fraud Detection Dashboard | Fraud analysis and transaction monitoring |
+| 🛍️ Retail Sales Intelligence | Sales and customer analytics |
+| 🏢 Business Dashboard | Business operations and profitability |
+
+---
+
+# 🤖 AI & Machine Learning Projects
 
 | Project | Domain |
 |---------|--------|
-| 🎨 AI Brand Color Palette Generator | Computer Vision • K-Means |
-| 🌿 Product Taxonomy Finder | Hierarchical Clustering |
-| 📊 Customer Persona Explorer | PCA |
-| 🎬 Streaming Recommendation Engine | Apriori Association Rules |
-| 📍 Foot Traffic & Anomaly Tracker | DBSCAN |
-| 📈 Product Analytics & User Retention | Business Analytics |
-| 🏗️ Kashmiri Arts Platform | AI-powered business assistance platform for artisans, tourism, retail, and agriculture. |
+| 🩺 OrthoAssist AI | Computer Vision + LLM |
+| 🤖 Enterprise RAG AI Agent | RAG + LLM |
+| 🧠 NanoGPT Forge | Large Language Models |
+| 💻 CodeForge AI | LLM Fine-Tuning (QLoRA) |
+| 💳 Credit Card Fraud Detection | MLOps |
+| 📈 ForecastIQ AI | Time Series Forecasting |
+| 🤖 TradePilot RL | Reinforcement Learning |
+| 🪙 SmartShield AI | Blockchain Security |
+| 😊 Emotion Detector | Computer Vision |
+| 🌸 DiseaseSense AI | Healthcare AI |
+| 📰 NewsSense NLP | NLP |
+| 📄 ResumeRank AI | NLP |
+| 👤 PersonaMap AI | PCA |
+| 🌍 GeoPulse AI | DBSCAN |
+| 🎬 StreamWise AI | Apriori |
+| 🎨 AI Color Palette Generator | Computer Vision |
+| 🌿 ClusterCart AI | Hierarchical Clustering |
+| 📺 ML YouTube Prediction | Regression & Classification |
+| 👥 CustomerIQ | Customer Analytics |
+| 📈 ProductPulse Analytics | Product Analytics |
+| 👨‍💼 PeoplePulse AI | HR Analytics |
+| 📢 MarketLens AI | Marketing Analytics |
+| 💼 CommerceIQ | E-Commerce Analytics |
+| 🏠 EstateIQ | Real Estate Analytics |
+| 📄 TalentLensAI | Resume Parsing |
+| 🛡️ FraudShield AI | Fraud Detection |
+| 📉 Churn Prediction | Customer Retention |
+| 📊 Stock Predictor | LSTM Forecasting |
+| 📱 Social Media Analytics | NLP |
+| ⚡ PowerGuard AI | Anomaly Detection |
+| 🌡️ COVID Analysis | Data Analytics |
+| 🔥 GitHub Trending Analysis | Analytics |
+| 🎯 CareerCompass AI | Semi-Supervised Learning |
+| 🌺 Flower Image Classification | Computer Vision |
+| ✍️ Digit Recognition SVM | Machine Learning |
+| 🛡️ TrustShield AI | Financial Fraud Detection |
 
 ---
+
+# 🌐 Development Projects
+
+| Project | Stack |
+|---------|-------|
+| 🌸 KoshurHeritage | TypeScript |
+| 🌿 Kashmiri Arts Platform | JavaScript + AI |
+| 💼 Siffrum Web Platform | React + Express.js |
+| 🌐 Portfolio Website | React + Vite |
+| 🤖 Enterprise RAG AI Agent | FastAPI |
+| 🧠 NanoGPT Forge | PyTorch + Flask |
 
 
 # 🛠️ Tech Stack
